@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Control Flow/Move up into 'if' statement branches" />
-  </component>
-</application>
