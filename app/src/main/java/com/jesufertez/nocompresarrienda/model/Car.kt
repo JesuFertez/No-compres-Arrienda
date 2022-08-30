@@ -12,5 +12,4 @@ data class Car(
     val kilometersByYear: Int,
     val AdditionalKilometersPrice: String,
     val attributes : Attributes
-        ){
-}
+        )
